@@ -8,10 +8,11 @@
 }
 body{
   display: flex;
-  align-items: center;
+  align-items: start;
   justify-content: center;
   min-height: 100vh;
   padding: 0 10px;
+  padding-top: 40px;
   background: linear-gradient(180deg, #350486 21.88%, rgba(80, 39, 146, 0.79) 76.04%, rgba(82, 35, 160, 0.762711) 99.98%, rgba(83, 34, 163, 0.757826) 99.99%, rgba(84, 33, 167, 0.75) 100%);
 }
 ::selection{
